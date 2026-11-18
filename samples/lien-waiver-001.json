@@ -1,0 +1,21 @@
+{
+  "type": "lien_waiver",
+  "job_id": "JOB-2026-042",
+  "site": "Site Alpha — Springfield, MO",
+  "waiver_id": "LW-2026-015",
+  "waiver_type": "conditional_progress",
+  "through_date": "2026-10-31",
+  "amount": 64125.00,
+  "payee": "Field Operator / GC Subcontractor LLC",
+  "payor": "General Contractor Inc.",
+  "project_owner": "Owner Properties LLC",
+  "property_address": "123 Industrial Park Dr, Springfield, MO 65802",
+  "conditional_on": "receipt of payment in full of the amount stated",
+  "exceptions": "None",
+  "supporting_progress_payment": "sealed-progress-payment.json",
+  "media_hashes": ["a1b2c3d4e5f6789012345678901234567890abcdef1234567890abcdef123456"],
+  "notes": "Conditional progress lien waiver for Application PA-007. Unconditional to be issued upon cleared funds.",
+  "submitted_by": "Field Operator",
+  "submitted_at": "2026-11-05T16:00:00Z",
+  "tool": "LienWaiverSeal/0.1.0"
+}
